@@ -74,6 +74,42 @@ export const RepositoryInfo = styled.section`
       }
     }
   }
+
+  @media (max-width: 768px) {
+    header {
+      flex-direction: column;
+
+      img {
+        margin-bottom: 20px;
+      }
+
+      div strong,
+      div p {
+        display: block;
+        text-align: center;
+      }
+    }
+
+    ul {
+      justify-content: center;
+
+      li {
+        & + li {
+          margin-left: 20px;
+        }
+
+        strong {
+          font-size: 22px;
+          text-align: center;
+        }
+
+        span {
+          font-size: 14px;
+          text-align: center;
+        }
+      }
+    }
+  }
 `;
 
 export const Issues = styled.div`
@@ -117,6 +153,12 @@ export const Issues = styled.div`
     svg {
       margin-left: auto;
       color: #cbcdb6;
+    }
+  }
+
+  @media (max-width: 768px) {
+    a {
+      word-break: break-word;
     }
   }
 `;
