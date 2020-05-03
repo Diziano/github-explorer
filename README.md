@@ -25,6 +25,7 @@
 
 <h3 align="center">
   github_explorer
+  <img alt="github_explorer" title="github_explorer" src=".github/desktop.gif" width="100%" />
 </h3>
 
 <br/>
