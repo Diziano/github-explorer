@@ -31,12 +31,19 @@
 <br/>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#thinking-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#geader-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+
+<br/>
+
+## :computer: Projeto
+
+A aplicação tem como objetivo explorar repositórios do GitHub, é possível adicionar os repositórios a uma lista e ver suas informações básicas como Stars, Forks e Issues abertas. A aplicação utiliza a API do GitHub para buscar os dados.
+Este é um projeto de próposito didático que está sendo desenvolvido durante o Bootcamp GoStack 11 da [Rocketseat](https://rocketseat.com.br/).
 
 <br/>
 
@@ -49,13 +56,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [axios](https://github.com/axios/axios)
 - [ESLint](https://github.com/eslint/eslint)
 - [Prettier](https://github.com/prettier/prettier)
-
-<br/>
-
-## :computer: Projeto
-
-A aplicação tem como objetivo explorar repositórios do GitHub, é possível adicionar os repositórios a uma lista e ver suas informações básicas como Stars, Forks e Issues abertas. A aplicação utiliza a API do GitHub para buscar os dados.
-Este é um projeto de próposito didático que está sendo desenvolvido durante o Bootcamp GoStack 11 da [Rocketseat](https://rocketseat.com.br/).
 
 <br/>
 
