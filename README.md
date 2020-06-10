@@ -3,6 +3,16 @@
 </h1>
 
 <p align="center">
+  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#thinking-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#geader-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<br/>
+
+<p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Diziano/github-explorer?style=flat-square">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Diziano/github-explorer?style=flat-square">
@@ -27,16 +37,6 @@
   <img alt="github_explorer" title="github_explorer" src=".github/desktop.gif" width="69%" />
   <img alt="github_explorer" title="github_explorer" src=".github/mobile.gif" width="30.1%" />
 </h3>
-
-<br/>
-
-<p align="center">
-  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#thinking-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#geader-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 <br/>
 
